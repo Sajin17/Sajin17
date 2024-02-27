@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **AngularJS**
 
 - 👨‍💻 All of my projects are available at [https://resonant-shortbread-352c92.netlify.app/](https://resonant-shortbread-352c92.netlify.app/)
 
